@@ -1,6 +1,6 @@
 # DE-SnowflakeAWSLambdaDynamoDB
 
-![Architecture Diagram](architecture.jpg)
+![Architecture Diagram](https://drive.google.com/uc?export=view&id=1MT6IZ_4JkYG120Exec0jJdtTDE_BJWDW)
 
 ## Overview
 
